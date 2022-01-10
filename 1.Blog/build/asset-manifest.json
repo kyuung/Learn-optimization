@@ -1,0 +1,35 @@
+{
+  "files": {
+    "static/js/0.33f1b109.chunk.js": "/static/js/0.33f1b109.chunk.js",
+    "static/js/0.33f1b109.chunk.js.map": "/static/js/0.33f1b109.chunk.js.map",
+    "main.css": "/static/css/main.233ae448.chunk.css",
+    "main.js": "/static/js/main.fc4326cf.chunk.js",
+    "main.js.map": "/static/js/main.fc4326cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe88ff72.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe88ff72.js.map",
+    "static/js/3.5af7ee7a.chunk.js": "/static/js/3.5af7ee7a.chunk.js",
+    "static/js/3.5af7ee7a.chunk.js.map": "/static/js/3.5af7ee7a.chunk.js.map",
+    "static/js/4.c23ece81.chunk.js": "/static/js/4.c23ece81.chunk.js",
+    "static/js/4.c23ece81.chunk.js.map": "/static/js/4.c23ece81.chunk.js.map",
+    "static/css/5.7ec5e22b.chunk.css": "/static/css/5.7ec5e22b.chunk.css",
+    "static/js/5.546330fd.chunk.js": "/static/js/5.546330fd.chunk.js",
+    "static/js/5.546330fd.chunk.js.map": "/static/js/5.546330fd.chunk.js.map",
+    "static/css/6.10e77819.chunk.css": "/static/css/6.10e77819.chunk.css",
+    "static/js/6.e2bfe64c.chunk.js": "/static/js/6.e2bfe64c.chunk.js",
+    "static/js/6.e2bfe64c.chunk.js.map": "/static/js/6.e2bfe64c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e10241ced759b9b06ddee8583a7f45b8.js": "/precache-manifest.e10241ced759b9b06ddee8583a7f45b8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/5.7ec5e22b.chunk.css.map": "/static/css/5.7ec5e22b.chunk.css.map",
+    "static/css/6.10e77819.chunk.css.map": "/static/css/6.10e77819.chunk.css.map",
+    "static/css/main.233ae448.chunk.css.map": "/static/css/main.233ae448.chunk.css.map",
+    "static/js/3.5af7ee7a.chunk.js.LICENSE": "/static/js/3.5af7ee7a.chunk.js.LICENSE",
+    "static/js/4.c23ece81.chunk.js.LICENSE": "/static/js/4.c23ece81.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe88ff72.js",
+    "static/js/4.c23ece81.chunk.js",
+    "static/css/main.233ae448.chunk.css",
+    "static/js/main.fc4326cf.chunk.js"
+  ]
+}
